@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gotta Go!", "Gotta Go!.csproj", "{5F9F9161-59DE-A1E1-6ADB-AF2647531356}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F9F9161-59DE-A1E1-6ADB-AF2647531356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F9F9161-59DE-A1E1-6ADB-AF2647531356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F9F9161-59DE-A1E1-6ADB-AF2647531356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F9F9161-59DE-A1E1-6ADB-AF2647531356}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
