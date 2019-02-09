@@ -12,8 +12,7 @@ OpenUrinal.cs\
 HighlightScript.cs\
 (Parts of) LookScript.cs\
 (Parts of) GameController.cs\
-(Parts of) UsedUrinal.cs\
-
+(Parts of) UsedUrinal.cs
 
 
 Link to playable game: https://featherbabystudios.com/gottago.html
